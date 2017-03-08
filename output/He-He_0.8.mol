@@ -1,0 +1,8 @@
+BASIS
+aug-cc-pVDZ
+
+
+Atomtypes=1 Charge=0 Nosymmetry Cartesian
+        2.    2
+He1    1.178897360    0.000365280    -0.014308480
+He2    -1.178897360    -0.000365200    0.014308400
